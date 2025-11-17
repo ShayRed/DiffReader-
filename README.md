@@ -1,53 +1,53 @@
 # DiffReader
 
-Ein professioneller Diff-Viewer für Windows mit modernem Design und Syntax-Highlighting.
+A professional diff viewer for Windows with modern design and syntax highlighting.
 
 ## ✨ Features
 
-- **Professioneller Diff-Viewer**: Modernes, übersichtliches Interface
-- **Syntax-Highlighting**: Farbcodierte Diff-Zeilen (hinzugefügt, gelöscht, Kontext)
-- **Multi-Datei Support**: Navigation durch mehrere Dateien in einem Diff
-- **Datei-Navigation**: Einfache Sidebar-Navigation für große Diffs
-- **Dunkles Design**: Augenschonendes dunkles Theme
-- **Zeilennummern**: Klare Anzeige der Zeilennummern für alte und neue Versionen
-- **Automatische Updates**: Integriertes Update-System über GitHub Releases
+- **Professional Diff Viewer**: Modern, clear interface
+- **Syntax Highlighting**: Color-coded diff lines (added, removed, context)
+- **Multi-File Support**: Navigate through multiple files in a single diff
+- **File Navigation**: Easy sidebar navigation for large diffs
+- **Dark Theme**: Eye-friendly dark theme
+- **Line Numbers**: Clear display of line numbers for old and new versions
+- **Automatic Updates**: Built-in update system via GitHub Releases
 
-## 🎯 Wofür ist DiffReader gut?
+## 🎯 What is DiffReader good for?
 
-DiffReader ist perfekt für:
-- **Code-Reviews**: Einfaches Lesen und Verstehen von Code-Änderungen
-- **Patch-Analyse**: Übersichtliche Darstellung von Git-Diffs und Patches
-- **Änderungsverfolgung**: Nachvollziehen von Änderungen in Projekten
-- **Multi-Datei Diffs**: Navigation durch komplexe Diffs mit vielen Dateien
+DiffReader is perfect for:
+- **Code Reviews**: Easy reading and understanding of code changes
+- **Patch Analysis**: Clear presentation of Git diffs and patches
+- **Change Tracking**: Tracking changes in projects
+- **Multi-File Diffs**: Navigation through complex diffs with many files
 
 ## 🚀 Download
 
-Lade die neueste Version von der [Releases](https://github.com/ShayRed/DiffReader-/releases) Seite herunter.
+Download the latest version from the [Releases](https://github.com/ShayRed/DiffReader-/releases) page.
 
-## 📋 Unterstützte Formate
+## 📋 Supported Formats
 
-- Git unified diff Format
-- Multi-Datei Diffs
-- Standard Diff-Header (`diff --git`, `---`, `+++`, `@@`)
-- Summary-Bereiche
+- Git unified diff format
+- Multi-file diffs
+- Standard diff headers (`diff --git`, `---`, `+++`, `@@`)
+- Summary sections
 
-## 📄 Lizenz
+## 📄 License
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Datei für Details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Entwickler
+## 👨‍💻 Developer
 
-**Entwickelt von Shay**
+**Developed by Shay**
 
 - 💬 [Discord Server](https://discord.gg/7aum2ZfmU3)
-- 🐙 [GitHub Profil](https://github.com/ShayRed)
+- 🐙 [GitHub Profile](https://github.com/ShayRed)
 
 ## 📞 Support
 
-Bei Fragen, Problemen oder Anregungen:
-- Öffne ein [Issue](https://github.com/ShayRed/DiffReader-/issues) auf GitHub
-- Tritt unserem [Discord Server](https://discord.gg/7aum2ZfmU3) bei
+For questions, issues, or suggestions:
+- Open an [Issue](https://github.com/ShayRed/DiffReader-/issues) on GitHub
+- Join our [Discord Server](https://discord.gg/7aum2ZfmU3)
 
 ---
 
-Entwickelt mit ❤️ von Shay
+Made with ❤️ by Shay

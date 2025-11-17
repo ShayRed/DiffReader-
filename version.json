@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2025-01-27",
+  "downloadUrl": "https://github.com/ShayRed/DiffReader-/releases/download/v1.0.0/",
+  "files": [
+    "DiffReader.exe",
+    "DiffReader.exe.config",
+    "Updater.exe"
+  ],
+  "changelog": "🚀 Version 1.0.0 - DiffReader\\n\\n✨ Initial Release:\\n• Professional diff file viewer\\n• Syntax highlighting for diff files\\n• File tree navigation\\n• Dark theme UI\\n• Support for multi-file diffs"
+}
+

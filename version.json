@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-01-27",
-  "downloadUrl": "https://github.com/ShayRed/DiffReader-/releases/download/v1.0.0/",
+  "version": "1.2.0",
+  "releaseDate": "2025-01-28",
+  "downloadUrl": "https://github.com/ShayRed/DiffReader-/releases/download/v1.2.0/",
   "files": [
     "DiffReader.exe",
     "DiffReader.exe.config",
     "Updater.exe"
   ],
-  "changelog": "🚀 Version 1.0.0 - DiffReader\\n\\n✨ Initial Release:\\n• Professional diff file viewer\\n• Syntax highlighting for diff files\\n• File tree navigation\\n• Dark theme UI\\n• Support for multi-file diffs"
+  "changelog": "🚀 Version 1.2.0 - DiffReader\\n\\n✨ New Features:\\n• Code Syntax Highlighting - Automatic language detection (C++, C, C#, JavaScript, Python, Java, TypeScript, HTML, CSS, XML, SQL)\\n• Highlights keywords (blue), strings (orange), comments (green), and numbers (green)\\n• Inline Changes Detection - Highlights changed segments within modified lines\\n• Uses LCS algorithm for accurate diff detection\\n\\n🔧 Improvements:\\n• Enhanced visual distinction between code elements\\n• Better diff viewing experience for code files\\n• Improved parsing and rendering performance\\n\\n🐛 Bug Fixes:\\n• Fixed copy to clipboard functionality (removes diff prefixes and headers)\\n• Improved Go to Line feature with better visual highlighting\\n• Fixed file tree navigation and selection"
 }
 

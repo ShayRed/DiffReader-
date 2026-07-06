@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "releaseDate": "2026-07-06",
-  "downloadUrl": "https://github.com/ShayRed/DiffReader-/releases/download/v1.2.3/",
+  "downloadUrl": "https://github.com/ShayRed/DiffReader-/releases/download/v1.2.4/",
   "files": [
     "DiffReader.exe",
     "DiffReader.exe.config",
     "Updater.exe"
   ],
-  "changelog": "🚀 Version 1.2.3 - DiffReader\\n\\n🐛 Bug Fixes:\\n• Copy to Clipboard: Keine extra Leerzeilen mehr beim Einfügen (CRLF-Split behoben)\\n• Kopierter Code entspricht jetzt exakt der Anzeige im Diff-Viewer\\n\\n🔧 Improvements:\\n• Stabilere Zeilenverarbeitung beim Kopieren aus dem RichTextBox"
+  "changelog": "🚀 Version 1.2.4 - DiffReader\\n\\n✨ New Features:\\n• Global Search – durchsucht alle Dateien im Patch (wie VS Code)\\n• Suchergebnisse in der Sidebar mit Datei-Gruppierung\\n• Navigation mit F3 / Shift+F3 über alle Treffer in allen Dateien\\n\\n🐛 Bug Fixes:\\n• Copy to Clipboard: Tabs bleiben erhalten (wichtig für Python .py)\\n• Copy to Clipboard: Keine extra Leerzeilen mehr beim Einfügen\\n\\n🔧 Improvements:\\n• Original-Diff-Zeilen werden beim Kopieren verwendet statt RichTextBox-Text\\n• Stabilere Suche und Navigation zwischen Dateien"
 }
